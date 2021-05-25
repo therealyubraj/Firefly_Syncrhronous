@@ -31,7 +31,6 @@ function draw() {
     }
     avg /= population;
   }
-  console.error(avg);
 }
 
 function getClosest() {
